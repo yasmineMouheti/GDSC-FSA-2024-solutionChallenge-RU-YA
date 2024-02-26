@@ -1,3 +1,6 @@
+![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/1dd14fe9-7962-4543-8b06-3c3a14485df3)
+
+
 **Our dream**
 Become the first platform for books exchange and shared reading experiences,fostering a global community of books lovers while empowering individuals who face financial limitations .
 break down geographical barriers and connect readers across cultures and backgrounds  creating a more inclusive and equitable  literary landscape.
@@ -50,6 +53,7 @@ in Western Europe each inhabitant uses an average of 147 kg of paper per year [2
 
 **the deals:**
 
+![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/b3cc1ad4-5f49-4a7b-a64e-c9536d971abf)
 
 free: access a wide selection o books and  connect with fellow book lovers directly for exchange . pickup and delivery arrangements are made between users.
 perminum : elevate you evpeience wit our hastle_free delivery service we’ll handle pickup form the owner and direct delivery to you door step for a nominal fee, ensuring a seamless and convenient exchange
@@ -86,6 +90,13 @@ we made a form to get feedback from potential customers  and this was the outcom
 
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/d911a388-1649-4a8b-b10c-6adce590c24e)
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/eaf49062-cddb-48a4-9d20-d0c02e7e7c72)
+
+
+**business model**
+![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/6671fffb-f6c5-4009-aa9f-84650f1fb162)
+![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/593cb3b5-cf84-4d64-a1ce-bda349c75a37)
+
+
 
 **benchmark** 
 Traditional book exchange platforms lack engagement  therefore we made the points system  so that exchanging books can be easy and fun all while joining a community that fits your interests
