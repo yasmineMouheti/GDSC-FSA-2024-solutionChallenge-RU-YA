@@ -1,3 +1,9 @@
+**Our dream**
+Become the first platform for books exchange and shared reading experiences,fostering a global community of books lovers while empowering individuals who face financial limitations .
+break down geographical barriers and connect readers across cultures and backgrounds  creating a more inclusive and equitable  literary landscape.
+revolunazing how people view and interact with literature , making reading immersive and social , while promoting sustainability and reducing environmental impact 
+inspiring a love for reading and promoting literacy worldwide ensuring everyone has access .
+
 **-RO’YA** ,immerse in a world where pages come alive
 immagine  yourself amidst a swirling vortex of pages ,each one is a portal to a captivating story. Now picture yourself connecting with fellow bookworms across the globe , sharing laughter and tears as your journey through those pages together . This is the magic of RU’YA , the book exchange app that transcends physical boundaries and brings life into the written word using virtual reality
 RO’YA  is a platform for  passionate readers , united by a love of literature and the power of shared expressions .
@@ -84,11 +90,7 @@ we made a form to get feedback from potential customers  and this was the outcom
 **benchmark** 
 Traditional book exchange platforms lack engagement  therefore we made the points system  so that exchanging books can be easy and fun all while joining a community that fits your interests
 
-**Our dream**
-Become the first platform for books exchange and shared reading experiences,fostering a global community of books lovers while empowering individuals who face financial limitations .
-break down geographical barriers and connect readers across cultures and backgrounds  creating a more inclusive and equitable  literary landscape.
-revolunazing how people view and interact with literature , making reading immersive and social , while promoting sustainability and reducing environmental impact 
-inspiring a love for reading and promoting literacy worldwide ensuring everyone has access .
+
 
 **Scalability**:
 Starting from morrocco to North Africa then taking it Global
