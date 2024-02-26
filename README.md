@@ -1,7 +1,7 @@
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/1dd14fe9-7962-4543-8b06-3c3a14485df3)
 
 
-**Our dream**
+**Our dream**:
 Become the first platform for books exchange and shared reading experiences,fostering a global community of books lovers while empowering individuals who face financial limitations .
 break down geographical barriers and connect readers across cultures and backgrounds  creating a more inclusive and equitable  literary landscape.
 revolunazing how people view and interact with literature , making reading immersive and social , while promoting sustainability and reducing environmental impact 
