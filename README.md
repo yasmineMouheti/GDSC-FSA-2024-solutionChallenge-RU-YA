@@ -42,7 +42,7 @@ in Western Europe each inhabitant uses an average of 147 kg of paper per year [2
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/1ad3c1b7-a7f1-4e37-988c-e7a75ff11ef0)
                                        17_partnership
 
-**-the deals: **
+**the deals:**
 
 
 free: access a wide selection o books and  connect with fellow book lovers directly for exchange . pickup and delivery arrangements are made between users.
@@ -50,17 +50,17 @@ perminum : elevate you evpeience wit our hastle_free delivery service we’ll ha
 -partners:
          Authors : -limited edition books , making books available on you e-book section first (exclusivity and early access)
          Delivery buisnesses: deliver the books after the approval of the exchange
-**market** :
+**market** 
 readers who value community and shared cultural experiences , and connecting over shared interests who want to transcend physical boundaries and share their passion in innovative ways  such as VR where stories come alive .
 
-**custom value proposition: **
+**custom value proposition:**
     **Seamless book exchange with coins **: exchanging the books a user has already finished reading with in app coins that they can use to get another book from the app
     **VR reading experience**:immerse yourself in shared virtual environments inspired by your chosen book
    **RU’YA Premium :** elevate your reading experience and unlock the world of exclusive benefits  with effortless book delivery and access to action for rare books
     **Community building**:Connect with like minded readers , discuss books and participate in virtual reading parties organized by the communities
 Discovery and recommendations : personalized suggestions based on your reading preferences and communities you joined
 
-  **Accessibility:**The in app coins help the users that can’t by a book with real money ,(you can get coins by selling books on the app or by purchasing the coins w real money)
+  **Accessibility:** The in app coins help the users that can’t by a book with real money ,(you can get coins by selling books on the app or by purchasing the coins w real money)
 Donations:users can donate a book or funds tosupport other users or  his community
 sustainability : for an amount of books exchanged  RU’YA plants a tree
 
