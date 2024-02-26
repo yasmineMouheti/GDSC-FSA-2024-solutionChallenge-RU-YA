@@ -106,5 +106,17 @@ Traditional book exchange platforms lack engagement  therefore we made the point
 **Scalability**:
 Starting from morrocco to North Africa then taking it Global
 
+**Demo:**:
+![2](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/7bc5ad0d-137e-43bf-bb7b-37995fe62b90)
+![3](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/6dc13fc9-1f45-4e13-b371-54460457eeb9)
+![4](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/69591522-f62c-42bd-84f7-57eb1874e649)
+![5](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/864c1206-f223-45a4-bbb2-3eade26bec4a)
+![6](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/e500f431-c930-4aea-b88f-3e291ad9d580)
+![7](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/0c84cda8-5123-420f-b6fb-8a802163fc69)
+![8](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/903cf483-0512-4a23-a6ab-c9d66d57a670)
+![9](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/81014291-020e-4b29-8a71-c468f8f6eb2b)
+![10](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/1596c5cc-c9cc-4441-bf42-b635570edc41)
+![11](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/6f91e0bf-dc8f-438b-9ffa-3e1779ff77ba)
+![Untitled](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/104172916/c8424a67-f81d-493c-a3a0-6694323da875)
 
 
