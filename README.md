@@ -22,22 +22,23 @@ in Western Europe each inhabitant uses an average of 147 kg of paper per year [2
   -physical distance  limiting the full potential of a shared book experience
 
 **united nations 17 goals included:**
-4_NO to poverty
+                                               4_NO to poverty
+
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/935b7f6e-4e04-4020-8398-809f69a3ce51)
-
-10_reduced inequalities
+                                           10_reduced inequalities
+                                             
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/157b72a2-ec8a-42bd-8017-9729f7774c44)
-
-12_responsible consumption and production
+                                       12_responsible consumption and production
+                                       
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/a03815af-401c-4c47-93be-d1dba3a807e1)
-
-13_climate action
+                                       13_climate action
+                                       
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/89fd4abe-fe41-4c7a-9e71-935de0a00a21)
-
-15_life on land
+                                        15_life on land
+                                        
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/d5627504-af1a-4c67-891e-7e1873bb1b84)
-
-17_partnership
+                                         17_partnership
+                                         
 ![image](https://github.com/yasmineMouheti/GDSC-FSA-2024-solutionChallenge-RU-YA/assets/99868650/1ad3c1b7-a7f1-4e37-988c-e7a75ff11ef0)
 
 
